@@ -1,0 +1,19 @@
+body{
+   background-color: black;
+}
+
+h1{
+   font-size: 40px;
+   color: limegreen;
+}
+h2{
+   font-size: 25px;
+   color: hotpink;
+}
+.big{ font-size:60px
+}
+.uppercase{
+   text-transform: uppercase;
+}
+.big.uppercase{color: navy;}
+span{color: darkred;}
